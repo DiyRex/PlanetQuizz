@@ -1,0 +1,136 @@
+{
+  "planet": {
+    "name": "Mars",
+    "generalInfo": {
+      "description": "Mars – the fourth planet from the Sun – is a dusty, cold, desert world with a very thin atmosphere. This dynamic planet has seasons, polar ice caps, extinct volcanoes, canyons, and weather.",
+      "namesake": "Mars was named by the ancient Romans for their god of war because its reddish color was reminiscent of blood. Other civilizations also named the planet for this attribute – for example, the Egyptians called it 'Her Desher,' meaning 'the red one.'",
+      "age": "Mars is often nicknamed 'The Red Planet' due to its surface appearance caused by iron oxidation."
+    },
+    "potentialForLife": {
+      "description": "Scientists don't expect to find living things currently thriving on Mars. Instead, they're looking for signs of life that existed long ago, when Mars was warmer and covered with water.",
+      "climateChangeImpact": "Mars' thin atmosphere and cold temperatures make it currently inhospitable to life as we know it."
+    },
+    "sizeAndDistance": {
+      "diameter": "6,780 kilometers",
+      "rank": "Seventh largest planet in the solar system",
+      "distanceFromSun": {
+        "value": "142 million miles",
+        "unit": "1.5 AU (astronomical units)"
+      },
+      "lightTravelTime": "13 minutes"
+    },
+    "orbitAndRotation": {
+      "rotationPeriod": "24.6 hours",
+      "orbitPeriod": "687 days",
+      "leapYearExplanation": "Mars does not experience leap years, but its orbit period influences its longer years.",
+      "axisTilt": "25 degrees",
+      "seasonalEffects": "The tilt causes Mars to have seasons, with varying lengths due to its elliptical orbit."
+    },
+    "moons": {
+      "number": 2,
+      "description": "Mars has two small moons, Phobos and Deimos, which are irregularly shaped and likely captured asteroids.",
+      "origin": "Phobos and Deimos are thought to be captured objects from the asteroid belt.",
+      "averageDistance": "Phobos: 3,700 miles; Deimos: 14,580 miles",
+      "rankInSize": "Phobos is the larger of the two."
+    },
+    "rings": "Mars has no rings. However, in about 50 million years, Phobos may break apart to form a dusty ring.",
+    "formation": {
+      "description": "Mars formed about 4.5 billion years ago from the same disk of gas and dust that formed the other planets in the solar system.",
+      "layers": [
+        {
+          "name": "Core",
+          "description": "Possibly made of iron, nickel, and sulfur, and is about 1,500 kilometers in radius."
+        },
+        {
+          "name": "Mantle",
+          "description": "A rocky layer of silicates that may have generated volcanic activity in the past."
+        },
+        {
+          "name": "Crust",
+          "description": "A thin outer layer primarily composed of iron-rich basaltic rock."
+        }
+      ]
+    },
+    "surface": {
+      "features": "Mars has the tallest volcano in the solar system, Olympus Mons, and the longest canyon, Valles Marineris. It also has polar ice caps and vast plains.",
+      "oceanCoverage": "No liquid water currently exists, but ancient riverbeds and lakebeds suggest a wetter past.",
+      "volcanicActivity": "Mars' volcanic activity is believed to have ceased billions of years ago, though it shaped much of its surface."
+    },
+    "atmosphere": {
+      "composition": {
+        "carbonDioxide": "96%",
+        "argon": "1.93%",
+        "nitrogen": "1.89%",
+        "other": "Traces of oxygen, water vapor, and methane"
+      },
+      "protection": "Mars' thin atmosphere provides little protection from radiation and meteor impacts."
+    },
+    "magnetosphere": {
+      "cause": "Mars lacks a global magnetic field due to its cooling core, but localized magnetic fields are present in certain regions.",
+      "effects": "The lack of a magnetosphere exposes Mars' surface to higher radiation levels.",
+      "polarityReversal": "Mars' magnetic field is no longer active, so polarity reversals do not occur."
+    }
+  },
+  "quizzes": [
+    {
+      "question": "What is the nickname of Mars?",
+      "options": ["Blue Planet", "Red Planet", "Green Planet", "Yellow Planet"],
+      "answer": "Red Planet",
+      "imagePath": "images/red_planet.jpg"
+    },
+    {
+      "question": "What causes Mars' surface to appear red?",
+      "options": ["Iron minerals oxidizing", "Dust storms", "Volcanoes", "Water"],
+      "answer": "Iron minerals oxidizing",
+      "imagePath": "images/mars_surface.jpg"
+    },
+    {
+      "question": "How long is one Martian day?",
+      "options": ["23.9 hours", "24.6 hours", "25.4 hours", "26 hours"],
+      "answer": "24.6 hours",
+      "imagePath": "images/martian_day.jpg"
+    },
+    {
+      "question": "How many moons does Mars have?",
+      "options": ["1", "2", "3", "4"],
+      "answer": "2",
+      "imagePath": "images/mars_moons.jpg"
+    },
+    {
+      "question": "What are the names of Mars' moons?",
+      "options": ["Io and Europa", "Phobos and Deimos", "Ganymede and Callisto", "Triton and Titan"],
+      "answer": "Phobos and Deimos",
+      "imagePath": "images/phobos_deimos.jpg"
+    },
+    {
+      "question": "What is the length of a Martian year in Earth days?",
+      "options": ["365 days", "687 days", "720 days", "800 days"],
+      "answer": "687 days",
+      "imagePath": "images/martian_year.jpg"
+    },
+    {
+      "question": "What is the radius of Mars in miles?",
+      "options": ["2106 miles", "4000 miles", "3000 miles", "5000 miles"],
+      "answer": "2106 miles",
+      "imagePath": "images/mars_radius.jpg"
+    },
+    {
+      "question": "What is the tilt of Mars' axis?",
+      "options": ["15 degrees", "25 degrees", "35 degrees", "45 degrees"],
+      "answer": "25 degrees",
+      "imagePath": "images/mars_tilt.jpg"
+    },
+    {
+      "question": "How far is Mars from the Sun in astronomical units?",
+      "options": ["1 AU", "1.5 AU", "2 AU", "2.5 AU"],
+      "answer": "1.5 AU",
+      "imagePath": "images/mars_distance.jpg"
+    },
+    {
+      "question": "What shape is Mars' orbit?",
+      "options": ["Circular", "Elliptical", "Triangular", "Spiral"],
+      "answer": "Elliptical",
+      "imagePath": "images/mars_orbit.jpg"
+    }
+  ]
+}

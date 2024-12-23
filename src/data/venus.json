@@ -1,0 +1,147 @@
+{
+  "planet": {
+    "name": "Venus",
+    "generalInfo": {
+      "description": "Venus is the second planet from the Sun and is similar in size and structure to Earth. It is often called Earth's 'sister planet,' but it has a thick, toxic atmosphere and surface temperatures hot enough to melt lead.",
+      "namesake": "Venus is named after the Roman goddess of love and beauty.",
+      "age": "Venus has been observed since ancient times due to its brightness in the sky and has been associated with various mythologies for thousands of years."
+    },
+    "potentialForLife": {
+      "description": "The surface of Venus is extremely inhospitable, with high temperatures, crushing atmospheric pressure, and clouds of sulfuric acid. However, scientists are studying the possibility of microbial life in the upper atmosphere.",
+      "climateChangeImpact": "Venus' atmosphere provides insights into runaway greenhouse effects, making it a cautionary example for Earth's climate."
+    },
+    "sizeAndDistance": {
+      "diameter": "12,104 kilometers",
+      "rank": "Sixth largest planet in the solar system",
+      "distanceFromSun": {
+        "value": "67 million miles",
+        "unit": "0.7 AU (astronomical units)"
+      },
+      "lightTravelTime": "6 minutes"
+    },
+    "orbitAndRotation": {
+      "rotationPeriod": "243 Earth days (retrograde rotation)",
+      "orbitPeriod": "225 Earth days",
+      "leapYearExplanation": "Venus does not experience leap years as its orbit and rotation are very different from Earth's.",
+      "axisTilt": "177.4 degrees (retrograde)",
+      "seasonalEffects": "Due to its almost upright axis, Venus experiences minimal seasonal variation."
+    },
+    "moons": {
+      "number": 0,
+      "description": "Venus has no natural moons or rings.",
+      "origin": "The lack of moons may be due to its proximity to the Sun and gravitational influences.",
+      "averageDistance": "N/A",
+      "rankInSize": "N/A"
+    },
+    "rings": "Venus has no rings.",
+    "formation": {
+      "description": "Venus formed about 4.5 billion years ago from the solar nebula, similar to the other terrestrial planets.",
+      "layers": [
+        {
+          "name": "Core",
+          "description": "A metallic core likely composed of iron and nickel, similar in size to Earth's core."
+        },
+        {
+          "name": "Mantle",
+          "description": "A rocky silicate mantle that is responsible for volcanic activity on the surface."
+        },
+        {
+          "name": "Crust",
+          "description": "A thin, rocky crust that has been shaped by volcanic activity and tectonic movements."
+        }
+      ]
+    },
+    "surface": {
+      "features": "Venus has vast plains, mountain ranges, and volcanic features, including Maxwell Montes and the vast lava plains. Over 1,600 volcanoes dot its surface.",
+      "oceanCoverage": "Venus has no liquid water on its surface, but evidence suggests it may have had oceans billions of years ago.",
+      "volcanicActivity": "Venus is thought to have active volcanoes, with recent studies showing signs of volcanic eruptions."
+    },
+    "atmosphere": {
+      "composition": {
+        "carbonDioxide": "96.5%",
+        "nitrogen": "3.5%",
+        "other": "Trace amounts of sulfur dioxide, water vapor, and other gases"
+      },
+      "protection": "The dense atmosphere traps heat through a runaway greenhouse effect, creating surface temperatures that reach about 900°F (475°C)."
+    },
+    "magnetosphere": {
+      "cause": "Venus lacks a strong magnetic field, likely due to its slow rotation.",
+      "effects": "The lack of a magnetic field exposes the planet to solar wind, which interacts with its atmosphere.",
+      "polarityReversal": "Venus does not have a global magnetic field, so polarity reversals do not occur."
+    }
+  },
+  "quizzes": [
+    {
+      "question": "What is the diameter of Venus?",
+      "options": ["12,104 kilometers", "10,000 kilometers", "6,371 kilometers", "15,000 kilometers"],
+      "answer": "12,104 kilometers",
+      "imagePath": "images/quiz/venus_diameter.jpg"
+    },
+    {
+      "question": "How long does it take Venus to orbit the Sun?",
+      "options": ["365 Earth days", "225 Earth days", "88 Earth days", "100 Earth days"],
+      "answer": "225 Earth days",
+      "imagePath": "images/quiz/venus_orbit.jpg"
+    },
+    {
+      "question": "What is Venus named after?",
+      "options": ["A Roman goddess", "A Greek god", "A constellation", "A Roman emperor"],
+      "answer": "A Roman goddess",
+      "imagePath": "images/quiz/venus_namesake.jpg"
+    },
+    {
+      "question": "How far is Venus from the Sun on average?",
+      "options": ["67 million miles", "93 million miles", "36 million miles", "100 million miles"],
+      "answer": "67 million miles",
+      "imagePath": "images/quiz/venus_distance.jpg"
+    },
+    {
+      "question": "Does Venus have any moons?",
+      "options": ["Yes", "No"],
+      "answer": "No",
+      "imagePath": "images/quiz/venus_moons.jpg"
+    },
+    {
+      "question": "What is the temperature on Venus during the day?",
+      "options": ["900°F", "-145°F", "-100°F", "43,000°F"],
+      "answer": "900°F",
+      "imagePath": "images/quiz/venus_temperature.jpg"
+    },
+    {
+      "question": "How many Earth days does a day on Venus last?",
+      "options": ["243", "365", "88", "12"],
+      "answer": "243",
+      "imagePath": "images/quiz/venus_day_length.jpg"
+    },
+    {
+      "question": "What is Venus' orbit shape?",
+      "options": ["Elliptical", "Circular", "Spiral", "Parabolic"],
+      "answer": "Elliptical",
+      "imagePath": "images/quiz/venus_orbit_shape.jpg"
+    },
+    {
+      "question": "How long does it take sunlight to travel from the Sun to Venus?",
+      "options": ["8 minutes", "6 minutes", "1 hour", "43.3 minutes"],
+      "answer": "6 minutes",
+      "imagePath": "images/quiz/venus_light_travel.jpg"
+    },
+    {
+      "question": "Why does Venus have minimal seasonal variation?",
+      "options": ["It has an almost upright axis", "It is a gas giant", "It is close to the Sun", "It has no moons"],
+      "answer": "It has an almost upright axis",
+      "imagePath": "images/quiz/venus_seasons.jpg"
+    },
+    {
+      "question": "What is Venus' core temperature?",
+      "options": ["9,000°F", "5,000°F", "-357°F", "10,000°F"],
+      "answer": "9,000°F",
+      "imagePath": "images/quiz/venus_core_temperature.jpg"
+    },
+    {
+      "question": "What are Venus' clouds composed of?",
+      "options": ["Sulfuric acid", "Water vapor", "Carbon dioxide", "Ammonia"],
+      "answer": "Sulfuric acid",
+      "imagePath": "images/quiz/venus_clouds.jpg"
+    }
+  ]
+}
